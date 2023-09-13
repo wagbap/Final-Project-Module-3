@@ -4,6 +4,25 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ProjectoFinalM3</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\uplaods\**" />
+    <Content Remove="wwwroot\uplaods\**" />
+    <EmbeddedResource Remove="wwwroot\uplaods\**" />
+    <None Remove="wwwroot\uplaods\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Doctor\" />
+    <Folder Include="Views\Users\" />
+    <Folder Include="Views\Patient\" />
+    <Folder Include="wwwroot\uploads\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibBiz\LibBiz.csproj" />
+  </ItemGroup>
 
 </Project>

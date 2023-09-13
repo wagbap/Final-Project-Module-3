@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wagne\\source\\repos\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj": {}
+    "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wagne\\source\\repos\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj": {
+    "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wagne\\source\\repos\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj",
         "projectName": "eConsultasWebAPI",
-        "projectPath": "C:\\Users\\wagne\\source\\repos\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj",
+        "projectPath": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\eConsultasWebAPI\\eConsultasWebAPI\\eConsultasWebAPI.csproj",
         "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wagne\\source\\repos\\eConsultasWebAPI\\eConsultasWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\eConsultasWebAPI\\eConsultasWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wagne\\AppData\\Roaming\\NuGet\\NuGet.Config",

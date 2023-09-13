@@ -1,21 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ProjectoFinalM3.Models;
 using System.Diagnostics;
+using LibBiz.Models;
 
-namespace ProjectoFinalM3.Controllers
+
+namespace VendaCursos_MVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
             return View();
+
         }
 
         public IActionResult Privacy()

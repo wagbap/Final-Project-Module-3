@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -243,6 +247,34 @@
     {
       "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\Captura de ecrã 2023-07-15 163514_2336203.png",
+      "PackagePath": "staticwebassets\\uploads\\Captura de ecrã 2023-07-15 163514_2336203.png"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\Captura de ecrã 2023-07-22 140645_2340999.png",
+      "PackagePath": "staticwebassets\\uploads\\Captura de ecrã 2023-07-22 140645_2340999.png"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\Captura de ecrã 2023-07-23 205430_2302086.png",
+      "PackagePath": "staticwebassets\\uploads\\Captura de ecrã 2023-07-23 205430_2302086.png"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\Captura de ecrã 2023-07-25 124008_2327217.png",
+      "PackagePath": "staticwebassets\\uploads\\Captura de ecrã 2023-07-25 124008_2327217.png"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\image-not-found.jpg",
+      "PackagePath": "staticwebassets\\uploads\\image-not-found.jpg"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\issac_2337932.png",
+      "PackagePath": "staticwebassets\\uploads\\issac_2337932.png"
+    },
+    {
+      "Id": "C:\\Users\\wagne\\source\\repos\\ProjectoFinalM3\\ProjectoFinalM3\\wwwroot\\uploads\\teste1.png",
+      "PackagePath": "staticwebassets\\uploads\\teste1.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectoFinalM3.Microsoft.AspNetCore.StaticWebAssets.props",
