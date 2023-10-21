@@ -1,0 +1,42 @@
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

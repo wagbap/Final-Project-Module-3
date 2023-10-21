@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eConsultas_API.props" />
+</Project>

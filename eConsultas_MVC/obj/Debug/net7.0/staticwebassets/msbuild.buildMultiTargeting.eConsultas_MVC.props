@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eConsultas_MVC.props" />
+</Project>

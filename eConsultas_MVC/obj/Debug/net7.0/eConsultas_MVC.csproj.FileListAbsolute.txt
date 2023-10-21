@@ -1,0 +1,113 @@
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.staticwebassets.runtime.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.exe
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.deps.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.runtimeconfig.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.AssemblyReference.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.AssemblyInfoInputs.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.AssemblyInfo.cs
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.RazorAssemblyInfo.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.RazorAssemblyInfo.cs
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.eConsultas_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.eConsultas_MVC.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eConsultas_MVC.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eConsultas_MVC.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\bundle\eConsultas_MVC.styles.css
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\projectbundle\eConsultas_MVC.bundle.scp.css
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.CopyComplete
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\refint\eConsultas_MVC.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.genruntimeconfig.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\ref\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.staticwebassets.runtime.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.exe
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.deps.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.runtimeconfig.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.AssemblyReference.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.RazorAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.RazorAssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.eConsultas_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.eConsultas_MVC.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eConsultas_MVC.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eConsultas_MVC.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\bundle\eConsultas_MVC.styles.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\scopedcss\projectbundle\eConsultas_MVC.bundle.scp.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\refint\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\obj\Debug\net7.0\ref\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\refint\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.staticwebassets.runtime.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.exe
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.deps.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.runtimeconfig.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\eConsultas_MVC.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.AssemblyReference.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.RazorAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.RazorAssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.eConsultas_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.eConsultas_MVC.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eConsultas_MVC.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eConsultas_MVC.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\scopedcss\bundle\eConsultas_MVC.styles.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\scopedcss\projectbundle\eConsultas_MVC.bundle.scp.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\eConsultas_MVC.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_MVC\obj\Debug\net7.0\ref\eConsultas_MVC.dll

@@ -1,0 +1,172 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@using Newtonsoft.Json;
+@using eConsultas_MVC.Models;
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@{
+    string Token = HttpContextAccessor.HttpContext.Session.GetString("Token");
+    Layout = "_AdminLayout";
+    string userJson = HttpContextAccessor.HttpContext.Session.GetString("User");
+    var user = JsonConvert.DeserializeObject<UserMV>(userJson);
+}
+
+@model DiseaseVM
+
+
+<div class="pagetitle">
+    <h1>Dashboard</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Create a Disease Statistics</h5>
+                <!-- Floating Labels Form -->
+                <form asp-action="CreateDiseaseStatistic" asp-controller="DashBoard" method="post">
+                    <div class="row">
+                        <!-- Added this row to contain the columns -->
+                        <div class="col-md-4">
+                            <div class="form-floating mb-3">
+                                <select asp-for="UserPatientId" asp-items="Model.Patients" class="form-control">
+                                    <option>Choose a Patient</option>
+                                </select>
+                                <label for="UserPatientId">Patient</label> <!-- Corrected the for attribute -->
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating mb-3">
+                                <select asp-for="Region"  class="form-control">
+                                    <option>Choose a City</option>
+                                    <option>Lisboa</option>
+                                    <option>Almada</option>
+                                    <option>Barreiro</option>
+                                    <option>Odivelas</option>
+                                    <option>Seixal</option>
+                                    <option>Porto</option>
+                                    <option>Gondomar</option>
+                                    <option>Aveiro</option>
+                                    <option>Braga</option>
+                                    <option>Coimbra</option>
+                                    <option>Faro</option>
+                                    <option>Funchal</option>
+                                    <option>Guimarães</option>
+                                    <option>Paredes</option>
+                                    <option>Ponta Delgada</option>
+                                    <option>Póvoa de Varzim</option>
+                                    <option>Setúbal</option>
+                                    <option>Sintra</option>
+                                    <option>Viana do Castelo</option>
+                                    <option>Vila Franca de Xira</option>
+                                    <option>Viseu</option>
+                                </select>
+                                <label for="Region">City</label> <!-- Corrected the for attribute -->
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-floating mb-3">
+                                <select asp-for="DiseaseId" asp-items="Model.Diseases" class="form-control">
+                                    <option>Choose a Disease</option>
+                                </select>
+                                <label for="DiseaseId">Diseases</label> <!-- Corrected the for attribute -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-left">
+                        <button type="submit" class="btn btn-primary">Create </button>
+                       
+                    </div>
+                </form><!-- End floating Labels Form -->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-lg-12">
+        <!-- Recent Sales -->
+        <div class="col-12">
+            <div class="card recent-sales overflow-auto">
+
+                <div class="card-body">
+                    <h5 class="card-title">Doctor to appointement <span>| Available</span></h5>
+
+                    <table class="table table-borderless datatable">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name of Patient</th>
+                                <th>Disease</th>
+                                <th>Region</th>
+                                <th>Death Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @if (Model.DiseasesStatistics != null && Model.DiseasesStatistics.Any())
+                            {
+                                foreach (var disease in Model.DiseasesStatistics)
+                                {
+                                    <tr>
+                                      
+                                        <th scope="row"><a href="#">#@disease.Id</a></th>
+                                        <td>@disease.FullName</td>
+                                        <td>@disease.DiseaseName</td>
+                                        <td>@disease.Region</td>                                  
+
+
+                                    <td>
+                                        @if (disease.DeathStatus == true)
+                                        {
+                                            <form method="post" action="@Url.Action("ToggleDeaphStatus", "DashBoard")">
+                                                <input type="hidden" id="UserId" name="UserId" value="@disease.UserId" readonly>
+                                                <input type="hidden" id="DeathStatus" name="DeathStatus" value="False">
+                                                <button type="submit" class="badge bg-success text-white rounded m-2 border-1">Vivo</button>
+                                            </form>    
+                                        }
+                                        else if (disease.DeathStatus == false)
+                                        {
+                                            <form method="post" action="@Url.Action("ToggleDeaphStatus", "DashBoard")">
+                                                <input type="hidden" id="UserId" name="UserId" value="@disease.UserId" readonly>
+                                                <input type="hidden" id="DeathStatus" name="DeathStatus" value="True">
+                                                <button type="submit" class="badge bg-danger text-white rounded m-2 border-1">Morto</button>
+                                            </form>
+                                        }
+                                    </td>
+
+                                       
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="4">No data available</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        </div><!-- End Recent Sales -->
+
+    </div>
+</div><!-- End Left side columns -->
+    </div>
+</div>
+
+
+   
+

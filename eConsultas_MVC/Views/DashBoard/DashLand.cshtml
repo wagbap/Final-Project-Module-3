@@ -1,0 +1,242 @@
+﻿@using Newtonsoft.Json;
+@using eConsultas_MVC.Models;
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@model DashboardMV
+@{
+    string Token = HttpContextAccessor.HttpContext.Session.GetString("Token");
+    Layout = "_AdminLayout";
+    string userJson = HttpContextAccessor.HttpContext.Session.GetString("User");
+    var user = JsonConvert.DeserializeObject<UserMV>(userJson);
+
+    int countActive = 0;
+    int countFinished = 0;
+    float? countEarned = 0;
+
+if (Model != null)
+    {
+        foreach (var appoint in Model.Appointments)
+        {
+            if (appoint.IsCompleted)
+            {
+                countFinished++;
+            }
+            else
+            {
+                countActive++;
+            }
+            countEarned += appoint.Price;
+        }
+    }
+}
+
+
+<div class="pagetitle">
+    <h1>Dashboard</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item active">Dashboard</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+@if (user.UserType == "SuperAdmim")
+{
+    <h3>Atenção</h3><br />
+    <p>"O acesso a mensagens privadas entre médicos por super administradores é uma questão sensível. Etilamente, 
+        a privacidade das comunicações deve ser respeitada. Legalmente, a interceptação destas mensagens pode ser
+        restringida por leis de privacidade. Embora possam existir razões operacionais para tal acesso, a transparência 
+        é fundamental. As partes envolvidas devem estar cientes de potenciais acessos e as organizações devem ter políticas 
+        claras e sistemas de auditoria em lugar. A privacidade e a confiança são primordiais."</p>
+}
+else{
+<section class="section dashboard">
+    <div class="row">
+        @* @if (!string.IsNullOrEmpty(Token))
+        {
+        <p>@Token</p>
+        } *@
+        <!-- Left side columns -->
+        <div class="col-lg-12">
+            <div class="row">
+
+                @if (user.UserType == "Doctor")
+                {
+                    <!-- Sales Card -->
+                    <div class="col-xxl-4 col-md-6">
+                        <div class="card info-card sales-card">
+
+                            <div class="card-body">
+                                <h5 class="card-title">Appointment <span>| Active</span></h5>
+
+                                <div class="d-flex align-items-center">
+                                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                                        <i class="bi bi-cart"></i>
+                                    </div>
+                                    <div class="ps-3">
+                                        <h6>@countActive</h6>
+                                        <span class="text-success small pt-1 fw-bold">12%</span> <span class="text-muted small pt-2 ps-1">increase</span>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- End Sales Card -->
+                    <!-- Revenue Card -->
+                    <div class="col-xxl-4 col-md-6">
+                        <div class="card info-card revenue-card">
+
+                            <div class="card-body">
+                                <h5 class="card-title">Appointment <span>| Finished</span></h5>
+
+                                <div class="d-flex align-items-center">
+                                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                                        <i class="bi bi-people"></i>
+                                    </div>
+                                    <div class="ps-3">
+                                        <h6>@countFinished</h6>
+                                        <span class="text-danger small pt-1 fw-bold">12%</span> <span class="text-muted small pt-2 ps-1">decrease</span>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- End Revenue Card -->
+                    <!-- Customers Card -->
+                    <div class="col-xxl-4 col-xl-12">
+
+                        <div class="card info-card customers-card">
+                            <div class="card-body">
+                                <h5 class="card-title">Total <span>| Earned</span></h5>
+
+                                <div class="d-flex align-items-center">
+                                    <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                                        <i class="bi bi-currency-dollar"></i>
+                                    </div>
+                                    <div class="ps-3">
+                                        <h6>@countEarned EUR</h6>
+                                        <span class="text-success small pt-1 fw-bold">8%</span> <span class="text-muted small pt-2 ps-1">increase</span>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- End Customers Card -->
+                }
+                <!-- Recent Sales -->
+                <div class="col-12">
+                    <div class="card recent-sales overflow-auto">
+
+                        <div class="filter">
+                            <a class="icon" href="#" data-bs-toggle="dropdown"><i class="bi bi-three-dots"></i></a>
+                            <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow">
+                                <li class="dropdown-header text-start">
+                                    <h6>Filter</h6>
+                                </li>
+
+                                <li><a class="dropdown-item" href="#">Today</a></li>
+                                <li><a class="dropdown-item" href="#">This Month</a></li>
+                                <li><a class="dropdown-item" href="#">This Year</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="card-body">
+                            <h5 class="card-title">Recent Sales <span>| Today</span></h5>
+
+                            <table class="table table-borderless datatable">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">#</th>
+                                        @if (user.UserType == "Patient")
+                                        {
+                                            <th scope="col">Doctor Name</th>
+                                        }
+                                        else if (user.UserType == "Doctor")
+                                        {
+                                            <th scope="col">Patient Name</th>
+                                        }
+                                        <th scope="col">Doctor Message</th>
+                                        @if (user.UserType == "Patient")
+                                        {
+                                            <th scope="col">@user.FullName - Message</th>
+                                        }
+                                        else if (user.UserType == "Doctor")
+                                        {
+                                            <th scope="col">Patient Message</th>
+                                        }
+
+                                        <th scope="col">Price</th>
+                                        <th scope="col">Status</th>
+                                        <th scope="col">Options</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @if (Model != null)
+                                    {
+                                        @foreach (var appoint in Model.Appointments)
+                                        {
+                                            <tr>
+                                                <th scope="row"><a href="#">#@appoint.AppointId</a></th>
+                                                @if (user.UserType == "Patient")
+                                                {
+                                                    <td>@appoint.Doctor.FullName</td>
+                                                }
+                                                else if (user.UserType == "Doctor")
+                                                {
+                                                    <td>@appoint.Patient.FullName</td>
+                                                }
+                                                <td><a href="#" class="text-primary">@appoint.DoctorMsg</a></td>
+                                                <td><a href="#" class="text-primary">@appoint.PatientMsg</a></td>
+                                                <td>@appoint.Price EUR</td>
+                                                @if (appoint.IsCompleted)
+                                                {
+                                                    @if (user.UserType == "Patient")
+                                                    {
+                                                        <td><a class="badge border-success border-1 text-success" style="cursor: pointer">Finished</a></td>
+                                                    }
+                                                    else if (user.UserType == "Doctor")
+                                                    {
+                                                        <td><a asp-action="FinishAppointment" asp-route-id="@appoint.AppointId" class="badge border-success border-1 text-success" style="cursor: pointer">Finished</a></td>
+                                                    }
+
+                                                }
+                                                else
+                                                {
+                                                    @if (user.UserType == "Patient")
+                                                    {
+                                                        <td><a class="badge border-warning border-1 text-warning" style="cursor: pointer">In progress</a></td>
+
+                                                    }
+                                                    else if (user.UserType == "Doctor")
+                                                    {
+                                                        <td><a asp-action="FinishAppointment" asp-route-id="@appoint.AppointId" class="badge border-warning border-1 text-warning" style="cursor: pointer">In progress</a></td>
+
+                                                    }
+                                                }
+                                                <td><a asp-action="Message" asp-route-id="@appoint.AppointId" class="badge bg-primary" style="cursor: pointer">More...</a></td>
+                                            </tr>
+                                        }
+                                    }
+                                </tbody>
+                            </table>
+
+                        </div>
+
+                    </div>
+                </div><!-- End Recent Sales -->
+            </div>
+        </div><!-- End Left side columns -->
+    </div>
+</section>
+
+}

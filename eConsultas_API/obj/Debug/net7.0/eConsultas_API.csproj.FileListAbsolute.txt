@@ -1,0 +1,273 @@
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\appsettings.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.exe
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.deps.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.runtimeconfig.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.AssemblyReference.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.AssemblyInfoInputs.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.AssemblyInfo.cs
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.eConsultas_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.build.eConsultas_API.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eConsultas_API.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eConsultas_API.props
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\scopedcss\bundle\eConsultas_API.styles.css
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.CopyComplete
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\refint\eConsultas_API.dll
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.pdb
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.genruntimeconfig.cache
+C:\Users\wagne\Downloads\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\ref\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\appsettings.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.exe
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.deps.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.runtimeconfig.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\eConsultas_API.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.AssemblyReference.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.eConsultas_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.build.eConsultas_API.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eConsultas_API.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eConsultas_API.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\scopedcss\bundle\eConsultas_API.styles.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\refint\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\eConsultas_API.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3-main\eConsultas_API\obj\Debug\net7.0\ref\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\appsettings.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\eConsultas_API.exe
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\eConsultas_API.deps.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\eConsultas_API.runtimeconfig.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\eConsultas_API.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.AssemblyReference.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.AssemblyInfoInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.AssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.CoreCompileInputs.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.eConsultas_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.build.eConsultas_API.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.eConsultas_API.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.eConsultas_API.props
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\scopedcss\bundle\eConsultas_API.styles.css
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.csproj.CopyComplete
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\refint\eConsultas_API.dll
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.pdb
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\eConsultas_API.genruntimeconfig.cache
+C:\Users\wagne\OneDrive\Ambiente de Trabalho\ACEPA\Projeto-Final-M3\eConsultas_API\obj\Debug\net7.0\ref\eConsultas_API.dll

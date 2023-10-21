@@ -1,0 +1,75 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model CreateDoctorMV
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="pagetitle">
+    <h1>Dashboard</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active">Make Appointement</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+<!-- 2 column grid layout with text inputs for the first and last names -->
+
+<section style="background-color: #fff;">
+    <div class="container py-5">
+
+        <div class="row">
+
+            <form method="post" class="row g-3 needs-validation" novalidate asp-controller="DashBoard" asp-action="CreateDoctor">
+                <div class="row mb-4">
+
+                    <div class="col">
+                        <div class="form-outline">
+                            <label class="form-label" for="form6Example2">Full Name</label>
+                            <input type="text" asp-for="@Model.FullName" class="form-control" id="yourName" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <!-- Text input -->
+                    <div class="col">
+                        <div class="form-outline mb-4">
+                            <label for="phone" class="form-label">Phone Number</label>
+                            <input type="text" asp-for="@Model.PhoneNumber" class="form-control" id="phone" required>
+                        </div>
+                    </div>
+
+                    <!-- Text input -->
+                    <div class="col">
+                        <div class="form-outline mb-4">
+                            <label for="yourEmail" class="form-label">Your Email</label>
+                            <input type="email" asp-for="@Model.Email" class="form-control" id="yourEmail" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <!-- Email input -->
+                    <div class="col">
+                        <div class="form-outline mb-4">
+                            <label for="yourEmail" class="form-label">Your Password</label>
+                            <input type="password" asp-for="@Model.Password" class="form-control" id="yourPassword" required>
+                            <div class="invalid-feedback">Please enter your password!</div>
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <button class="btn btn-primary w-100" type="submit">Create Doctor Account</button>  
+                    </div>
+                    <div class="col-12">
+                        <p class="small mb-0">Already have an account? <a asp-controller="DashBoard" asp-action="Index">Log in</a></p>
+                    </div>
+            </form>
+
+        </div>  
+
+    </div>
+</section>
